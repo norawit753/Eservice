@@ -9,6 +9,9 @@
 # API Research
 /API_Research/node_modules
 
+# ##################################################
+
+# Client_E-Service
 # dependencies
 Client_E-Service/node_modules
 Client_E-Service/.pnp
