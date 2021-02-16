@@ -1,0 +1,10 @@
+[submodule "API_E-Service"]
+	url = https://github.com/zooksonline/API_E-Service.git
+[submodule "API_E-Complaint"]
+	url = https://github.com/zooksonline/API_E-Complaint.git
+[submodule "API_Research"]
+	url = https://github.com/zooksonline/API_Research.git
+[submodule "Client_E-Service"]
+	url = https://github.com/zooksonline/Client_E-Service.git
+[submodule "API_PHP"]
+	url = https://github.com/zooksonline/API_PHP.git
