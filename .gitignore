@@ -1,0 +1,32 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# API Main
+/API_E-Service/node_modules
+
+# API Complaint
+/API_E-Complaint/node_modules
+
+# API Research
+/API_Research/node_modules
+
+# dependencies
+Client_E-Service/node_modules
+Client_E-Service/.pnp
+Client_E-Service/.pnp.js
+
+# testing
+Client_E-Service/coverage
+
+# production
+Client_E-Service/build
+
+# misc
+Client_E-Service/.DS_Store
+Client_E-Service/.env.local
+Client_E-Service/.env.development.local
+Client_E-Service/.env.test.local
+Client_E-Service/.env.production.local
+
+Client_E-Service/npm-debug.log*
+Client_E-Service/yarn-debug.log*
+Client_E-Service/yarn-error.log*
